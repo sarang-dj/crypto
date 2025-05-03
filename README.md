@@ -2,10 +2,8 @@
 # Repo Link - [Github](https://github.com/AvaterClasher/crypto)
 ## Members 
 
-- Soumyadip Moni
-- Suvarn vats
-- Krushna Sahoo
-- Srizan Saket
+-Divya Jyoti Sarangi
+-Owaish Jawed
 
 ## Results 
 ### Comparing the RMSE and MAPE of the various models used 
